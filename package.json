@@ -16,7 +16,7 @@
     "here-maps-react": "^1.1.0",
     "mongoose": "^5.9.5",
     "react-google-maps": "^9.4.5",
-    "socket.io": "^2.3.0",
+    "socket.io": "^2.4.0",
     "uuid": "^7.0.2"
   }
 }
